@@ -5,7 +5,7 @@ This is a simple React application that allows users to:
 - View a list of all tasks
 - Move tasks up and down in the list
 
-### Technologies used
+### Technologies used:
 - React
 - JavaScript (ES6+)
 
